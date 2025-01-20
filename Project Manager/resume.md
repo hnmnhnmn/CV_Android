@@ -21,6 +21,19 @@ Results-driven Android Engineer with 4+ years expertise in full-stack mobile dev
 - **Mobile development:** MVVM, MVC, Jetpack compose, SwiftUI, Kotlin Coroutine, Koin, Dagger Hilt, Room, Realm, preferences, SQLite. Reactive programming. Memory management. 
 - **Reverse Engineer**: Mint proxy, Jadx, Burp Suite.
 - **Server & Deployment**: Apache, Nginx, Cloud Hosting
+## Education
+
+**Engineer of Information Technology - Title: Good**
+
+Da Nang University of Technology and Science – Da Nang, VN
+*Graduated: March 2022*
+
+## Languages
+
+1. **Vietnamese**: Native
+1. **English:** Intermediate (proficient B2)
+1. **Japanese:** N4
+
 ## Professional Experience
 
 ### Mobile Engineer
@@ -82,8 +95,8 @@ Results-driven Android Engineer with 4+ years expertise in full-stack mobile dev
 1. **Responsibilities:** Build a system with fast development and continuous expansion for the company's Android and iOS apps. Provide content and manage users. 
 Use system optimization techniques and reduce system load to withstand high pressure during peak season while still providing good user experience and minimizing application latency.
 1. **Result:** The system works well with a peak load of 200TB per month. Low latency in the world wide. Reduce costs to just 10% compared to using GCP
-
 <br></br>
+
 [**Color Phone Call Screen Theme (10M+)**](https://play.google.com/store/apps/details?id=com.lutech.callcolor)
 
 1. **Customer:** World Wide (10+ milions installed) 
@@ -94,18 +107,7 @@ Use system optimization techniques and reduce system load to withstand high pres
 1. **Result:** Currently get over 10 milion installed.
 
 
-## Education
 
-**Engineer of Information Technology - Title: Good**
-
-Da Nang University of Technology and Science – Da Nang, VN
-*Graduated: March 2022*
-
-## Languages
-
-1. **Vietnamese**: Native
-1. **English:** Intermediate (proficient B2)
-1. **Japanese:** N4
 
 
 
