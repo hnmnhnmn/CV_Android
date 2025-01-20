@@ -6,8 +6,9 @@
 
 ## Summary
 
-- Results-driven Android Engineer with 4+ years expertise in full-stack mobile development, scaling applications to 10M+ downloads and optimizing systems for 200TB monthly traffic. Architected 20+ successful product launches using Kotlin, Java, and Jetpack Compose. Expert in clean architecture (MVVM, MVI), AI implementation, and scalable backend systems and dependency injection frameworks (Dagger Hilt, Koin).
-- Proven track record in optimizing app performance through advanced memory management and reactive programming, leveraging Firebase suite and modern dependency injection frameworks. Distinguished for innovative AI solutions that reduce costs while maintaining high performance, coupled with strong leadership in cross-functional teams and data-driven product management.
+Results-driven Android Engineer with 4+ years expertise in full-stack mobile development, scaling applications to 10M+ downloads and optimizing systems for 200TB monthly traffic. Architected 20+ successful product launches using Kotlin, Java, and Jetpack Compose. Expert in clean architecture (MVVM, MVI), AI implementation, and scalable backend systems and dependency injection frameworks (Dagger Hilt, Koin).
+ <br></br>
+ Proven track record in optimizing app performance through advanced memory management and reactive programming, leveraging Firebase suite and modern dependency injection frameworks. Distinguished for innovative AI solutions that reduce costs while maintaining high performance, coupled with strong leadership in cross-functional teams and data-driven product management.
 
 ## Skills
 - **Programing Language:** Java, Kotlin, Swift, HTML, Javascript, Python
@@ -51,30 +52,42 @@
 
 **[**Themes - App icons, Wallpapers (30M+)** ](https://play.google.com/store/apps/details?id=com.lutech.theme):**
 
-
-1. It is an application that allows you to personalize your Android phone device with beautiful animations, app icons in a special style, useful and impressive widgets.
-2. Build services to be responsible for features such as live wallpapers, date and time widgets, weather widgets. Combine well with the database built with room.
-3. Memorable period: In the summer of 2023, the app started to scale up to 1 million downloads, the server started to not be able to meet the demand, so I researched and found a way to use a new server and have the ability to continuously scale to the level of meeting the peak traffic month of up to 200 terabytes in 1 month.
+1. **Customer:** World Wide (30 milions installed) 
+1. **Description:** It is an application that allows you to personalize your Android phone device with beautiful animations, app icons in a special style, useful and impressive widgets.
+1. **Role:** Software Engineer
+1. **Technology:** Java, Kotlin, Retrofit2, Coroutine, Koin, Room
+1. **Responsibilities:** Build the whole app from scratch. Build services to be responsible for features such as live wallpapers, date and time widgets, weather widgets. Combine well with the database built with room. 
+1. **Memorable period:** In the summer of 2023, the app started to scale up to 1 million downloads, the server started to not be able to meet the demand, so I researched and found a way to use a new server and have the ability to continuously scale to the level of meeting the peak traffic month of up to 200 terabytes in 1 month.
+1. **Result:** Currently get over 30 milions installed.
 
 **Identifier Scanner (1M+)** 
 
-1. Develop a more cost-effective way to use AI than the original and make it almost free to scale up the application to other Identifiers with the same speed and accuracy.
-<br></br>
+1. **Customer:** World Wide (1 milions installed) 
+1. **Description:** Coin Identifier Scanner is the ultimate coin identification and collecting app. With AI-powered image recognition technology, Coin Value - Coin Identifier can accurately identify any coin around the world in seconds.
+1. **Role:** Software Engineer
+1. **Technology:** Java, Kotlin, Retrofit2, Coroutine, Dagger Hilt, Room, AI Identifier
+1. **Responsibilities:**  Develop a more cost-effective way to use AI than the original and make it almost free to scale up the application to other Identifiers with the same speed and accuracy.
+1. **Result:** Currently get over 1 milion installed. Reduce cost for AI to nearly zero.
 
 **Back-end system for all applications of Lutech**
 
-  <b>Content providers, REST APIs for Applications, user management, content management built by NodeJs, Nginx, VPS and GCP </b>
+1. **Customer:** All the app of the company (IOS and Android) 
+1. **Description:** Content providers, REST APIs for Applications, user management, content management built by NodeJs, Nginx, VPS and GCP
+1. **Role:** Back-end Engineer
+1. **Technology:** Java, Spring Boot, Javascript, NodeJs, Nginx, GCP
+1. **Responsibilities:** Build a system with fast development and continuous expansion for the company's Android and iOS apps. Provide content and manage users. 
+Use system optimization techniques and reduce system load to withstand high pressure during peak season while still providing good user experience and minimizing application latency.
+1. **Result:** The system works well with a peak load of 200TB per month. Low latency in the world wide.
 
-1. Build a system with fast development and continuous expansion for the company's Android and iOS apps. Provide content and manage users. 
-2. Use system optimization techniques and reduce system load to withstand high pressure during peak season while still providing good user experience and minimizing application latency.
-<br></br>
 
 [**Color Phone Call Screen Theme (10M+)**](https://play.google.com/store/apps/details?id=com.lutech.callcolor)
 
-  
-1. Build Incall service to handle incoming calls to display custom wallpapers according to user's wishes.
-2. Create impressive personalized wallpapers that engage users.
-
+1. **Customer:** World Wide (10+ milions installed) 
+1. **Description:** Color Phone Call Screen Themes app is a personalized call screen for incoming calls with color screen. Make your calls unique with color call themes, live wallpapers, ringtones, flash alerts
+1. **Role:** Software Engineer
+1. **Technology:** Java, Kotlin, Retrofit2, Coroutine, Room
+1. **Responsibilities:**  Build Incall service to handle incoming calls to display custom wallpapers according to user's wishes. Create impressive personalized wallpapers that engage users.
+1. **Result:** Currently get over 10 milion installed.
 
 
 ## Education
