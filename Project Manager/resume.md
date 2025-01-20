@@ -20,7 +20,7 @@ Results-driven Android Engineer with 4+ years expertise in full-stack mobile dev
 - **Database:** MySQL, MongoDB, Room, Realm, SQLite.
 - **Mobile development:** MVVM, MVC, Jetpack compose, SwiftUI, Kotlin Coroutine, Koin, Dagger Hilt, Room, Realm, preferences, SQLite. Reactive programming. Memory management. 
 - **Reverse Engineer**: Mint proxy, Jadx, Burp Suite.
-
+- **Server & Deployment**: Apache, Nginx, Cloud Hosting
 ## Professional Experience
 
 ### Mobile Engineer
@@ -45,10 +45,10 @@ Results-driven Android Engineer with 4+ years expertise in full-stack mobile dev
 ### Back-end Engineer
 **Lutech.LTD** – Da Nang
 *2021-2024*
-
-1. Same time as an Android developer at Lutech, I built APIs system for all of the company's Android apps. 
+1. **Technology Stack:** Java, Spring Boot, Docker, NodeJs, MySQL, MongoDB
+1. Implement a combination of techniques to build an API system for all company applications including IOS and Android to reduce costs to the lowest possible (Cut costs down to 10% compared to using GCP)
 1. Designed and implemented RESTful APIs serving 10M+ users worldwide handling 200TB monthly traffic
-
+1. Implemented CI/CD pipelines for automated testing and deployment
 
 ## Key Project
 
@@ -62,6 +62,7 @@ Results-driven Android Engineer with 4+ years expertise in full-stack mobile dev
 1. **Memorable period:** In the summer of 2023, the app started to scale up to 1 million downloads, the server started to not be able to meet the demand, so I researched and found a way to use a new server and have the ability to continuously scale to the level of meeting the peak traffic month of up to 200 terabytes in 1 month.
 1. **Result:** Currently get over 30 milions installed.
 <br></br>
+
 **Identifier Scanner (1M+)** 
 
 1. **Customer:** World Wide (1 milions installed) 
@@ -71,6 +72,7 @@ Results-driven Android Engineer with 4+ years expertise in full-stack mobile dev
 1. **Responsibilities:**  Develop a more cost-effective way to use AI than the original and make it almost free to scale up the application to other Identifiers with the same speed and accuracy.
 1. **Result:** Currently get over 1 milion installed. Reduce cost for AI to nearly zero.
 <br></br>
+
 **Back-end system for all applications of Lutech**
 
 1. **Customer:** All the app of the company (IOS and Android) 
@@ -95,6 +97,7 @@ Use system optimization techniques and reduce system load to withstand high pres
 ## Education
 
 **Engineer of Information Technology - Title: Good**
+
 Da Nang University of Technology and Science – Da Nang, VN
 *Graduated: March 2022*
 
@@ -102,6 +105,7 @@ Da Nang University of Technology and Science – Da Nang, VN
 
 1. **Vietnamese**: Native
 1. **English:** Intermediate (proficient B2)
+1. **Japanese:** N4
 
 
 
