@@ -18,7 +18,7 @@ Results-driven Android Engineer with 4+ years expertise in full-stack mobile dev
 - **Testing & Quality:** JUnit, Test-Driven Development, 
 - **Tools:** Jira, Trello, Firebase analytics, Crashlytics, Remote Config, A/B Testing.
 - **Database:** MySQL, MongoDB, Room, Realm, SQLite.
-- **Mobile development:** MVVM, MVC, Jetpack compose, SwiftUI, Kotlin Coroutine, Koin, Dagger Hilt, Room, Realm, preferences, SQLite. Reactive programming. Memory management. 
+- **Mobile development:** MVVM, MVC, Jetpack compose, SwiftUI, Kotlin Coroutine, Koin, Dagger Hilt, Room, Realm, preferences, SQLite. Reactive programming. Memory management. FFMPEG.
 - **Reverse Engineer**: Mint proxy, Jadx, Burp Suite.
 - **Server & Deployment**: Apache, Nginx, Cloud Hosting
 ## Education
