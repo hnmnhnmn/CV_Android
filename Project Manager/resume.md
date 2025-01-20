@@ -33,7 +33,9 @@ Da Nang University of Technology and Science – Da Nang, VN
 1. **Vietnamese**: Native
 1. **English:** Intermediate (proficient B2)
 1. **Japanese:** N4
-
+<br></br>
+<br></br>
+<br></br>
 ## Professional Experience
 
 ### Mobile Engineer
@@ -62,6 +64,11 @@ Da Nang University of Technology and Science – Da Nang, VN
 1. Implement a combination of techniques to build an API system for all company applications including IOS and Android to reduce costs to the lowest possible (Cut costs down to 10% compared to using GCP)
 1. Designed and implemented RESTful APIs serving 10M+ users worldwide handling 200TB monthly traffic
 1. Implemented CI/CD pipelines for automated testing and deployment
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
 
 ## Key Project
 
@@ -72,7 +79,7 @@ Da Nang University of Technology and Science – Da Nang, VN
 1. **Role:** Software Engineer
 1. **Technology:** Java, Kotlin, Retrofit2, Coroutine, Koin, Room
 1. **Responsibilities:** Build the whole app from scratch. Build services to be responsible for features such as live wallpapers, date and time widgets, weather widgets. Combine well with the database built with room. 
-1. **Memorable period:** In the summer of 2023, the app started to scale up to 1 million downloads, the server started to not be able to meet the demand, so I researched and found a way to use a new server and have the ability to continuously scale to the level of meeting the peak traffic month of up to 200 terabytes in 1 month.
+1. **Memorable period:** In the summer of 2023, the app started to scale up to 1 million downloads, the server started to not be able to meet the demand, so I researched and found a way to use a new server and have the ability to continuously scale to the level of meeting the peak traffic month of up to 200 terabytes in 1 month. 
 1. **Result:** Currently get over 30 milions installed.
 <br></br>
 
