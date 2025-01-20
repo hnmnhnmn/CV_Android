@@ -1,22 +1,22 @@
 # Nguyen Van Huy
-
-
+ 
 **Phone:** 0352669370
 **Email:** nvanhuy0409@gmail.com
 **LinkedIn:** [Huy Nguyen](https://www.linkedin.com/in/huy-nguy%E1%BB%85n-3b43a0221/)
 
 ## Summary
 
-Results-driven Project Manager with over 10 years of experience in leading cross-functional teams to deliver complex projects on time and within budget. Skilled in Agile and Waterfall methodologies, with a strong focus on stakeholder management, risk assessment, and process improvement. Adept at using project management tools to streamline workflows and enhance productivity.
+- Results-driven Android Engineer with 4+ years expertise in full-stack mobile development, scaling applications to 10M+ downloads and optimizing systems for 200TB monthly traffic. Architected 20+ successful product launches using Kotlin, Java, and Jetpack Compose. Expert in clean architecture (MVVM, MVI), AI implementation, and scalable backend systems and dependency injection frameworks (Dagger Hilt, Koin).
+- Proven track record in optimizing app performance through advanced memory management and reactive programming, leveraging Firebase suite and modern dependency injection frameworks. Distinguished for innovative AI solutions that reduce costs while maintaining high performance, coupled with strong leadership in cross-functional teams and data-driven product management.
 
 ## Skills
-
-- **Project Management:** Agile, Scrum, Waterfall, Kanban
-- **Tools:** Jira, Trello, Asana, MS Project, Smartsheet
-- **Methodologies:** PMP, PRINCE2, Lean Six Sigma
-- **Communication:** Stakeholder Management, Conflict Resolution, Team Leadership
-- **Budget Management:** Cost Estimation, Financial Reporting, Resource Allocation
-- **Risk Management:** Risk Identification, Mitigation Strategies, Contingency Planning
+- **Programing Language:** Java, Kotlin, Swift, HTML, Javascript, Python
+- **Project Management:** Agile, Scrum, Waterfall
+- **Tools:** Jira, Trello, Firebase analytics, Crashlytics, Remote Config, A/B Testing.
+- **Database:** MySQL, MongoDB, Room, Realm, SQLite.
+- **Tools and Frameworks:** Github, NodeJs, Jetpack compose, SwiftUI, Reverse Engineering, Nginx, Hosting Server.
+- **Android development:** MVVM, MVC, Kotlin Coroutine, Koin, Dagger Hilt, Room, Realm, preferences, SQLite. Reactive programming. Memory management. Try/Catch Handling.  
+- **Reverse Engineer**: Mint proxy, Jadx, Burp Suite.
 
 ## Professional Experience
 
