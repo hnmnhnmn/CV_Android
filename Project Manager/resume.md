@@ -12,11 +12,13 @@ Results-driven Android Engineer with 4+ years expertise in full-stack mobile dev
 
 ## Skills
 - **Programing Language:** Java, Kotlin, Swift, HTML, Javascript, Python
+- **Frontend Technologies:** ReactJS, HTML5, CSS3
 - **Project Management:** Agile, Scrum, Waterfall
+- **Cloud & DevOps:** Docker, CI/CD pipelines
+- **Testing & Quality:** JUnit, Test-Driven Development, 
 - **Tools:** Jira, Trello, Firebase analytics, Crashlytics, Remote Config, A/B Testing.
 - **Database:** MySQL, MongoDB, Room, Realm, SQLite.
-- **Tools and Frameworks:** Github, NodeJs, Jetpack compose, SwiftUI, Reverse Engineering, Nginx, Hosting Server.
-- **Android development:** MVVM, MVC, Kotlin Coroutine, Koin, Dagger Hilt, Room, Realm, preferences, SQLite. Reactive programming. Memory management. Try/Catch Handling.  
+- **Mobile development:** MVVM, MVC, Jetpack compose, SwiftUI, Kotlin Coroutine, Koin, Dagger Hilt, Room, Realm, preferences, SQLite. Reactive programming. Memory management. 
 - **Reverse Engineer**: Mint proxy, Jadx, Burp Suite.
 
 ## Professional Experience
@@ -45,7 +47,7 @@ Results-driven Android Engineer with 4+ years expertise in full-stack mobile dev
 *2021-2024*
 
 1. Same time as an Android developer at Lutech, I built APIs system for all of the company's Android apps. 
-1. Run smoothly and scale well to meet the company's apps with over 10 million downloads for Worldwide users.
+1. Designed and implemented RESTful APIs serving 10M+ users worldwide handling 200TB monthly traffic
 
 
 ## Key Project
@@ -59,7 +61,7 @@ Results-driven Android Engineer with 4+ years expertise in full-stack mobile dev
 1. **Responsibilities:** Build the whole app from scratch. Build services to be responsible for features such as live wallpapers, date and time widgets, weather widgets. Combine well with the database built with room. 
 1. **Memorable period:** In the summer of 2023, the app started to scale up to 1 million downloads, the server started to not be able to meet the demand, so I researched and found a way to use a new server and have the ability to continuously scale to the level of meeting the peak traffic month of up to 200 terabytes in 1 month.
 1. **Result:** Currently get over 30 milions installed.
-
+<br></br>
 **Identifier Scanner (1M+)** 
 
 1. **Customer:** World Wide (1 milions installed) 
@@ -68,7 +70,7 @@ Results-driven Android Engineer with 4+ years expertise in full-stack mobile dev
 1. **Technology:** Java, Kotlin, Retrofit2, Coroutine, Dagger Hilt, Room, AI Identifier
 1. **Responsibilities:**  Develop a more cost-effective way to use AI than the original and make it almost free to scale up the application to other Identifiers with the same speed and accuracy.
 1. **Result:** Currently get over 1 milion installed. Reduce cost for AI to nearly zero.
-
+<br></br>
 **Back-end system for all applications of Lutech**
 
 1. **Customer:** All the app of the company (IOS and Android) 
@@ -77,9 +79,9 @@ Results-driven Android Engineer with 4+ years expertise in full-stack mobile dev
 1. **Technology:** Java, Spring Boot, Javascript, NodeJs, Nginx, GCP
 1. **Responsibilities:** Build a system with fast development and continuous expansion for the company's Android and iOS apps. Provide content and manage users. 
 Use system optimization techniques and reduce system load to withstand high pressure during peak season while still providing good user experience and minimizing application latency.
-1. **Result:** The system works well with a peak load of 200TB per month. Low latency in the world wide.
+1. **Result:** The system works well with a peak load of 200TB per month. Low latency in the world wide. Reduce costs to just 10% compared to using GCP
 
-
+<br></br>
 [**Color Phone Call Screen Theme (10M+)**](https://play.google.com/store/apps/details?id=com.lutech.callcolor)
 
 1. **Customer:** World Wide (10+ milions installed) 
