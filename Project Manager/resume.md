@@ -20,65 +20,73 @@
 
 ## Professional Experience
 
-### Senior Project Manager
-**Tech Innovators Inc.** – Chicago, IL
-*May 2016 – Present*
+### Mobile Engineer
+**Nanobyte.LTD** – Da Nang
+*March 2024 - Present*
+<br></br>
+1. Worked with senior management to scope and build new features and applications which scaled to over 1 million installed and more.
+1. Innovate with my team to improve AI-powered features that are cost-effective and low-cost to almost Cost-Free and scalable to multiple products at once.
+1. Apply the latest and best technologies for tool applications. Like <b>Coroutine, reactive programming, Koin, Dagger Hilt, MVVM, Clean architecture, Optimize android core, memory management </b>
+<br></br>
 
-1. Led a team of 15 in the successful delivery of multiple high-profile projects, achieving a 95% on-time delivery rate.
-1. Implemented Agile methodologies across the organization, resulting in a 30% increase in team productivity and a 20% reduction in project delivery times.
-1. Managed project budgets totaling over $10 million, ensuring projects were delivered within budget and with optimal resource utilization.
-1. Conducted regular risk assessments and developed mitigation plans, reducing project risks by 40%.
-1. Fostered strong relationships with stakeholders, enhancing communication and ensuring alignment with project goals and objectives.
 
-### Project Manager
-**Global Solutions Ltd.** – New York, NY
-*June 2012 – April 2016*
+### Android Engineer
+**Lutech.LTD** – Da Nang
+*2022-2024*
+1. Self-built an application that reached 10 million downloads with a back-end that could handle the load when users increased rapidly to millions of users. Peak month traffic was up to 200 terabytes a month.
+1. Along with that, build special features and achieve success through some apps with millions of installs. Covering a wide range of domains: music apps, office apps, prank apps, fitness apps, audio editing apps,...
+1. Understand and coordinate well with the team to apply policies related to Android apps according to Google's policies to develop applications and fix policy-related errors during application development.
+<br></br>
 
-1. Coordinated and managed over 20 projects simultaneously, ranging from software development to infrastructure upgrades.
-1. Streamlined project management processes, introducing new tools and techniques that improved efficiency by 25%.
-1. Delivered projects with budgets up to $5 million, consistently meeting or exceeding financial targets.
-1. Developed comprehensive project plans, including timelines, milestones, and resource allocation, ensuring clear guidance for project teams.
-1. Facilitated cross-functional team collaboration, enhancing communication and ensuring successful project outcomes.
 
-### Assistant Project Manager
-**NextGen Technologies** – Boston, MA
-*July 2009 – May 2012*
+### Back-end Engineer
+**Lutech.LTD** – Da Nang
+*2021-2024*
 
-1. Assisted in managing software development projects, ensuring they were completed on time and within budget.
-1. Coordinated project activities and resources, maintaining detailed project documentation and status reports.
-1. Supported the implementation of project management tools, improving tracking and reporting capabilities.
-1. Assisted in risk management activities, identifying potential issues and developing mitigation strategies.
-1. Contributed to process improvement initiatives, enhancing project workflows and increasing team productivity.
+1. Same time as an Android developer at Lutech, I built APIs system for all of the company's Android apps. 
+1. Run smoothly and scale well to meet the company's apps with over 10 million downloads for Worldwide users.
+
+
+## Key Project
+
+**[**Themes - App icons, Wallpapers (30M+)** ](https://play.google.com/store/apps/details?id=com.lutech.theme):**
+
+
+1. It is an application that allows you to personalize your Android phone device with beautiful animations, app icons in a special style, useful and impressive widgets.
+2. Build services to be responsible for features such as live wallpapers, date and time widgets, weather widgets. Combine well with the database built with room.
+3. Memorable period: In the summer of 2023, the app started to scale up to 1 million downloads, the server started to not be able to meet the demand, so I researched and found a way to use a new server and have the ability to continuously scale to the level of meeting the peak traffic month of up to 200 terabytes in 1 month.
+
+**Identifier Scanner (1M+)** 
+
+1. Develop a more cost-effective way to use AI than the original and make it almost free to scale up the application to other Identifiers with the same speed and accuracy.
+<br></br>
+
+**Back-end system for all applications of Lutech**
+
+  <b>Content providers, REST APIs for Applications, user management, content management built by NodeJs, Nginx, VPS and GCP </b>
+
+1. Build a system with fast development and continuous expansion for the company's Android and iOS apps. Provide content and manage users. 
+2. Use system optimization techniques and reduce system load to withstand high pressure during peak season while still providing good user experience and minimizing application latency.
+<br></br>
+
+[**Color Phone Call Screen Theme (10M+)**](https://play.google.com/store/apps/details?id=com.lutech.callcolor)
+
+  
+1. Build Incall service to handle incoming calls to display custom wallpapers according to user's wishes.
+2. Create impressive personalized wallpapers that engage users.
+
+
 
 ## Education
 
-**Master of Business Administration (MBA)**
-Harvard Business School – Boston, MA
-*Graduated: May 2009*
-
-**Bachelor of Science in Computer Science**
-University of Illinois at Urbana-Champaign – Urbana, IL
-*Graduated: May 2007*
-
-## Certifications
-
-1. Project Management Professional (PMP)
-1. Certified ScrumMaster (CSM)
-1. PRINCE2 Practitioner
-1. Lean Six Sigma Green Belt
-
-## Projects
-
-### ERP Implementation
-1. Led the successful implementation of an ERP system across multiple departments, improving operational efficiency by 35%.
-
-### Website Redesign
-1. Managed a complete website redesign project, enhancing user experience and increasing web traffic by 50%.
-
-### Data Center Migration
-1. Oversaw the migration of data center operations to a new facility, ensuring minimal downtime and improved system reliability.
+**Engineer of Information Technology - Title: Good**
+Da Nang University of Technology and Science – Da Nang, VN
+*Graduated: March 2022*
 
 ## Languages
 
-1. **English:** Native
-1. **Spanish:** Intermediate
+1. **Vietnamese**: Native
+1. **English:** Intermediate (proficient B2)
+
+
+
