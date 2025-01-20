@@ -1,9 +1,9 @@
-# aaa Huy
+# Nguyen Van Huy
 
-**Location:** Chicago, IL
-**Phone:** (555) 234-5678
-**Email:** robert.anderson@example.com
-**LinkedIn:** [linkedin.com/in/robertanderson](https://linkedin.com/in/robertanderson)
+
+**Phone:** 0352669370
+**Email:** nvanhuy0409@gmail.com
+**LinkedIn:** [Huy Nguyen](https://www.linkedin.com/in/huy-nguy%E1%BB%85n-3b43a0221/)
 
 ## Summary
 
